@@ -1,1 +1,4 @@
-* filter=lfs diff=lfs merge=lfs -text lockable
+Changelog.txt filter=lfs diff=lfs merge=lfs -text lockable
+README.md filter=lfs diff=lfs merge=lfs -text lockable
+Arquivo[[:space:]]1 filter=lfs diff=lfs merge=lfs -text lockable
+Arquivo[[:space:]]2 filter=lfs diff=lfs merge=lfs -text lockable
